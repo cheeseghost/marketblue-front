@@ -1,0 +1,28 @@
+.cent{
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+}
+.barrita{
+    padding: 1.5% 1% 1.5% 1%;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    background:rgba(154, 203, 248, 1);
+    width: 95%;
+
+}
+.fin{
+    padding: 1.5% 15% 1.5% 8%;
+margin: 5px;
+background: rgba(18, 144, 203, 0.78);
+border-radius: 10px;
+border: black;
+
+width: 25%;
+height: 12%;
+color: white;
+}
+.hi{
+    padding: 10% 5% 4% 40%;
+}

@@ -1,0 +1,59 @@
+.cuadro{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    border: 4px solid #1290CB;
+    position: absolute;
+    border-radius: 20px;
+    background:rgba(209, 203, 203, 0.66);
+    top: 10%;
+    height: 80%;
+    width: 70%;
+    flex-direction: column;
+}
+
+.Logo{
+    height: 20%;
+    width: 28%;
+    margin: 5px;
+    
+}
+.Lock{
+    height: 50%;
+    width: 8%;
+}
+.User{
+    height: 50%;
+    width: 8%;
+}
+
+.boton{
+margin: 5px;
+background: rgba(18, 144, 203, 0.78);
+border-radius: 10px;
+border: black;
+width: 25%;
+height: 12%;
+color: white;
+}
+
+.form input{
+    flex: auto;
+    border:0;
+    height: 80%;
+    width: 85%;
+    border-radius: 20px
+}
+.barra{
+background: #FFFFFF;
+height: 17%;
+width: 50%;
+margin: 5px;
+border: 2px solid #ECE5E5;
+border-radius: 20px
+}
+.linkbut{
+    text-decoration: none;
+    color:white
+}
